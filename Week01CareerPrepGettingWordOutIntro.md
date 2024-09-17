@@ -1,4 +1,6 @@
-Name: Cayleigh Leishman!
+Name: 
+
+Cayleigh Leishman!
 
 Background: 
 
@@ -8,7 +10,6 @@ My name is Cayleigh Leishman, and I’m currently a student at Brigham Young Uni
 Home: 
 
 I was born in USA, Idaho and then moved to Canada, Alberta when I was about three years old. 
-
 
 Interests: 
 
@@ -37,8 +38,7 @@ While I'm proud of what I've been able to do I recognize that I still have a lot
 
 [Cover Letter:](https://github.com/CayleighLeishman/cse-397/blob/main/cover-letter-cse-397.pdf)
 
-
-I was always told that a cover letter should be personal to the Company you're writing to. I wasn't entirely sure who to referene in the letter. 
+I was always told that a cover letter should be personal to the Company you're writing to. I wasn't entirely sure who to referene in the letter, but I wrote what I thought would be best!
 
 
 [LinkedIn](https://www.linkedin.com/in/cayleigh-leishman/)
