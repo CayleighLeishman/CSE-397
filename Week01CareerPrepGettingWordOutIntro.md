@@ -21,8 +21,9 @@ I lost my hearing when I was about five years old, so I use a Cochlear Implant t
 
 Photo: 
 
-![]()
+![Cayleigh's Day At The Beach]()
 
+ The day I took this picture I went to the "beach" with family in Idaho. I don't have any pictures with them on my device. I ended up "treasure hunting" for different rocks. There was a surprising number of purplish rocks on the area. No I didn't take pictures of the rocks either.
 
 [Resume:](https://github.com/CayleighLeishman/cse-397/blob/main/Resume.pdf)
 
