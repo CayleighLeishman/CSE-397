@@ -30,7 +30,7 @@ She states that "The SMARTS goal can help you feel more Motivated to learn and g
 *Linkedin profile:*
 
  1) Add in big meaningful projects I've done into LinkedIn
- 2) 
+ 2) Have a more professional Profile Picture
 
 
 
