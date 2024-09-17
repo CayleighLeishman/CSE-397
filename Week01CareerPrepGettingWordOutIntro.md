@@ -1,4 +1,4 @@
-Name: Cayleigh Leishman
+Name: Cayleigh Leishman!
 
 Background: 
 
@@ -18,10 +18,8 @@ Unique:
 
 I lost my hearing when I was about five years old, so I use a Cochlear Implant to help me understand those around me. It’s not perfect which is where my strong organizational and communicative skills can come in handy. I also know ASL and occationally attend Church where we use ASL to strengthen my ASL skills and sense of community. 
 
-
 Photo: 
-
-![Cayleigh's Day At The Beach]()
+![Cayleigh's Day At The Beach](https://github.com/CayleighLeishman/cse-397/blob/main/day-at-beach.jpg)
 
  The day I took this picture I went to the "beach" with family in Idaho. I don't have any pictures with them on my device. I ended up "treasure hunting" for different rocks. There was a surprising number of purplish rocks on the area. No I didn't take pictures of the rocks either.
 
@@ -43,4 +41,4 @@ While I'm proud of what I've been able to do I recognize that I still have a lot
 I was always told that a cover letter should be personal to the Company you're writing to. I wasn't entirely sure who to referene in the letter. 
 
 
-
+[LinkedIn](https://www.linkedin.com/in/cayleigh-leishman/)
