@@ -1,9 +1,13 @@
 **SMART Goals Research:**
 
 The sources I used for this assingment is theses three:
+
 *1) [Atlassian](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals)
+
 *2) [Isix](https://www.isixsigma.com/dictionary/smart/)*
+
 *3) [MsCottonsCorner->YouTube] (https://www.youtube.com/watch?v=9PwIZwIIv10)*
+
 *4) [KhanAcademy](https://www.khanacademy.org/college-careers-more/learnstorm-growth-mindset-activities-us/elementary-and-middle-school-activities/setting-goals/v/learnstorm-growth-mindset-how-to-write-a-smart-goal)*
 
 
@@ -20,30 +24,28 @@ Time-bound
 
 **Measurable** after reviewing the difference sources, I took to mean "Results you can see the progress of." This allows you to track the outcome a little more easily and get to the nitty gritty before it gets too confusing. If it does get confusing then you can see it pretty quickly, and know it needs to be readjusted.
 
-**Acheivable** This just means "a goal you can actually accomplish." Though we do need to streach ourselves, espeicilly for this course and in the feild, we need to make sure it's within the rhelmn of possibilities that we can sccessfully acheive,
+**Acheivable** This just means "a goal you can actually accomplish." Though we do need to streach ourselves, especially for this course and in the feild, we need to make sure it's within the range of possibilities that we can sccessfully acheive,
 
 **Relavant** I like to rephrase this as "relevant" to the goal. If you know you need to mow the lawn you're not going to prepare how to make dishes. Thats inside work. You want to prepare the lawn, which may include bringing dishes on the lawn inside, but not starting the dishwasher. 
 
 **Time-Bound** This focuses on making goals that you can accomplish in a timephrame. this means being on the same page with your team on when things will get done, and ensuring that what we want to acheive can be done within the time that we need to get things done. 
 
-
 While I did the reading/watched videos I found My favourite line which was from Khan Academy. There it says: 
 "keep working through your frusterations by using the right learning strategies" [4]
-I don't know about everyone, but for me I know that I can get frusterated when I'm not understanding the material after a long period of time. So this can serve as a helpful reminder for us that we will get frusterated, but we need to impliment the right strategies to get through it. 
+I don't know about everyone, but for me I know that I can get frusterated when I'm not understanding the material after a long period of time. So this can serve as a helpful reminder for us that we will get frusterated, but we need to impliment the right strategies to get through it. We make do with what we've got and move forward the best we can. 
 
 **Resume Improvements:**
  Look at 3-4 other classmates’ posts and identify 2-4 items that you think are novel approaches to improving your resume or LinkedIn Profile.
 
 *Resume:*
-1) Focus on the layout and simplify it more
-2) Utilize bullet points more 
+1) Focus on the layout 
+2) Utilize bullet points more
+3) Simplify the resume more. 
  
 *Linkedin profile:*
 
-I liked seeing some of the big projects that one of the students posted. 
  1) Add in big meaningful projects I've done into LinkedIn
  2) Have a more professional Profile Picture
-
 
 
 **Job Posting & Evaluation:**
@@ -60,7 +62,7 @@ This is for front end position. Since I have a growing interest in UI Design, th
 
 [Digital Accessibility](https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/362898/?keyword=Web+development&mode=job-location)
 
-Since I have a growing interest in Accessibility through Web browsers, this could have been a great place to see different accessibility features and see different Unversity cultures across the United States. 
+Since I have a growing interest in Accessibility through Web browsers, this could have been a great place to see different accessibility features implemented in Web Design. 
 
 **Equivalent:**
 
@@ -71,10 +73,9 @@ Since I have a growing interest in Accessibility through Web browsers, this coul
  *CSS (And some accessibility tools)
  *Javascript
  *Self Motivated
- *Work Wtih Chatgbt (Honestly since the professor mentioned that working with Chatgbt is a growing  demand in some workplaces, I've realized how many Jobs and internships where I've read that also have this as a Qualification. That was news to me.)
+ *Work Wtih Chatgbt (Honestly since the professor mentioned that working with Chatgbt is a growing  demand in some workplaces, I've realized how many Jobs and internships also have this as a Qualification. That was news to me.)
  *Detail Oriented
  *Works independantly
-
 
 
 **Improvements:**
@@ -83,14 +84,14 @@ Since I have a growing interest in Accessibility through Web browsers, this coul
 
  I could do more work to see what IDE each company uses. I never really thought to look into that, but that could be a great way to expand my expereince. Seeing IDE's of different companies may also help me see which IDE;s the common donominator and maybe get some practice with their IDE's. Or at least be wiling to work with it. 
 
-  Something I'm not familiar with though would be accesibility techniques outside of Alt Text. So I can see if there's new ways for me to learn techniques or information about how that's done.There could be other packages that we can use to utilize our coding efficiency time but remaing accessible. I'm not sure yet. 
+  Something I'm not familiar with though would be accesibility techniques outside of Alt Text. So I can see if there's new ways for me to learn techniques or information about how that's done. There could be other packages that we can use to utilize our coding efficiency time but remaing accessible. I'm not sure yet. 
 
 
 **SMART Goals:**
 
 *Improvements*
 
-I looked over these students for ideas on how to imrpove my resume/linkedIn. 
+I looked over these students for ideas on how to improve my resume/Linkedin. 
 * (Jackson Westover:)[https://github.com/jcwestover/CSE-397/blob/main/Week01CareerPrepGettingWordOutIntro.md]
 * (Brycen Williams:)[https://github.com/Brycenjwill/cse-397/blob/main/Week01CareerPrepGettingWordOutIntro.md]
 * (Mabel Heiner) [https://github.com/mabelheiner/cse-397/blob/main/Week01CareerPrepGettingWordOutIntro.md]
@@ -99,19 +100,19 @@ Things I've learned from them:
 
 *About Resume:* 
 
-The main thing I noticed was the layout of my resume.I struggle to know how to space things out with a resume, so following their layout may help me narrow down what is essential to share on one page. 
+The main thing I noticed was the layout of their resume. I struggle to know how to space things out in my resume, so following their layout may help me narrow down what is essential to share on one page. 
 
-(One example of formatting: I had my languages and soft skills off to the left, while most of them would include the skills under a project, or in it’s own header.Just as long as its not off to the side.) 
+(One example of formatting: I had my languages and soft skills off to the left, while most of them would include the skills under a project, or in their header.Just as long as its not off to the side.) 
 
-Also I think I would get rid of the blue and just stick with the black color and try for similar formmating and layout as their resume. 
+Also, I think I would get rid of the blue and just stick with the black colour and try for a format and layout similar to their resume. 
 
 Other things: 
 
 * Utilize bullet points
 * Put contact under my name across the page rather than in a corner. 
-* Someone also shared a note with me to put a more recent project on my resume, so when I have the opportunity, I will make sure to do that. 
+* Someone also shared a note with me to put a more recent project on my resume.
 
-Something all of us seem to do differently is choose which part of a resume goes where. (For example: Should we showcase our Education at the top or the middle after projects?)
+Something all of the students seem to do differently is where they put different sections. (For example: some Students put their Education at the top rather than showcasing their projects first.) 
 
 *About LinkedIn/Cover Letter:*
 
@@ -121,12 +122,16 @@ Something all of us seem to do differently is choose which part of a resume goes
 
 **Create two S.M.A.R.T. goals**
 
-(Specific, Measurable, Achievable, Realistic, Time), one based on what you learned from your fellow classmates, and one from job search. 
-
  What I learned From classmate:
 
 Something that stood out to me from the student introductions is how each person seemed to have a real passion or drive for something. I know my passion lies in the realm of accessibility, but I haven’t had the chance to go beyond basic accessibility features like ALT text. With my current course load, I’m not sure I’ll be able to code accessibility features just yet. However, because accessibility is something I really care about, I’m going to start by learning three key forms of website accessibility that could be integrated into our team project. By the end of the semester, I’ll write an 800-1,200 word summary about what I’ve learned and how these techniques can be applied to make our project more accessible moving forward. 
 
 Job Search:
 
-By the end of the semester I will add 15 new Linkedin connections.
+By the end of the semester I will add 15 new Linkedin connections. 
+
+This is a goal that I can achieve with my busy schedule and could help me not only expand my reach but help me keep up to date with the ever-growing and changing industry. 
+
+
+
+
