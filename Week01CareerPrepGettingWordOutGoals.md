@@ -1,6 +1,6 @@
 **SMART Goals Research:**
 
-The sources I used for this assingment is theses three:
+The sources I used for this assignment are these three:
 
 *1) [Atlassian](https://www.atlassian.com/blog/productivity/how-to-write-smart-goals)
 
@@ -11,28 +11,28 @@ The sources I used for this assingment is theses three:
 *4) [KhanAcademy](https://www.khanacademy.org/college-careers-more/learnstorm-growth-mindset-activities-us/elementary-and-middle-school-activities/setting-goals/v/learnstorm-growth-mindset-how-to-write-a-smart-goal)*
 
 
-The purpose of the Acrynymn SMART is to helo us "feel more motivated to learn and grow" [3]. It breaks down how to make and more importantly maintain Goals in your lives. 
+The acronym "SMART" is meant to help us "feel more motivated to learn and grow" [3]. It breaks down how to make and more importantly, maintain Goals in your lives. 
 
 The Smarts Acronymn Stands for:
-Specfic
+Specific
 Measurable 
-Acheivable
+Achievable
 Relevant
 Time-bound
 
-**Specific** means that it has a straightforward and leaves little room for interpretation. So instead of saying "I want to be able to add more Users to the database." You boil it down to "I want to add 150 Users to the database. 
+**Specific** means it is straightforward and leaves little room for interpretation. So instead of saying "I want to be able to add more Users to the database." You boil it down to "I want to add 150 Users to the database. 
 
-**Measurable** after reviewing the difference sources, I took to mean "Results you can see the progress of." This allows you to track the outcome a little more easily and get to the nitty gritty before it gets too confusing. If it does get confusing then you can see it pretty quickly, and know it needs to be readjusted.
+**Measurable** After reviewing the different sources, I took this to mean "Results you can see the progress of." This allows you to track the outcome a little more easily and get to the nitty-gritty before it gets too confusing. If it does get confusing then you can see it pretty quickly, and know it needs to be readjusted.
 
-**Acheivable** This just means "a goal you can actually accomplish." Though we do need to streach ourselves, especially for this course and in the feild, we need to make sure it's within the range of possibilities that we can sccessfully acheive,
+**Acheivable** This means "a goal you can fully accomplish." Though we do need to stretch ourselves, especially for this course and in the field, we need to make sure it's within the range of possibilities that we can successfully achieve,
 
-**Relavant** I like to rephrase this as "relevant" to the goal. If you know you need to mow the lawn you're not going to prepare how to make dishes. Thats inside work. You want to prepare the lawn, which may include bringing dishes on the lawn inside, but not starting the dishwasher. 
+**Relevant** I like to rephrase this as "relevant" to the goal. If you know you need to mow the lawn you're not going to prepare how to make dishes. That's inside work. You want to prepare the lawn, which may include bringing dishes on the lawn inside, but not starting the dishwasher. 
 
-**Time-Bound** This focuses on making goals that you can accomplish in a timephrame. this means being on the same page with your team on when things will get done, and ensuring that what we want to acheive can be done within the time that we need to get things done. 
+**Time-Bound** This focuses on making goals that you can accomplish in a time frame. this means being on the same page with your team on when things will get done, and ensuring that what we want to achieve can be done within the time that we need to get things done. 
 
 While I did the reading/watched videos I found My favourite line which was from Khan Academy. There it says: 
-"keep working through your frusterations by using the right learning strategies" [4]
-I don't know about everyone, but for me I know that I can get frusterated when I'm not understanding the material after a long period of time. So this can serve as a helpful reminder for us that we will get frusterated, but we need to impliment the right strategies to get through it. We make do with what we've got and move forward the best we can. 
+"keep working through your frustrations by using the right learning strategies" [4]
+I don't know about everyone, but I know I can get frustrated when I'm not understanding the material after a long time. So this can serve as a helpful reminder for us that we will get frustrated, but we need to implement the right strategies to get through it. We make do with what we've got and move forward the best we can. 
 
 **Resume Improvements:**
  Look at 3-4 other classmates’ posts and identify 2-4 items that you think are novel approaches to improving your resume or LinkedIn Profile.
@@ -48,9 +48,10 @@ I don't know about everyone, but for me I know that I can get frusterated when I
  2) Have a more professional Profile Picture
 
 
+
 **Job Posting & Evaluation:**
 
- Find 3-4 jobs that you would like have applied or recommend. Provide links. And why are they good matches. Evaluate them.
+If I had to take the opportunity to apply for jobs now I would probably look at these four. 
 
  [Melaleuca](https://studentcareers-melaleuca.icims.com/jobs/6464/internship-2025---software-development/job?mobile=false&width=1030&height=16727&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360)
 
@@ -66,25 +67,24 @@ Since I have a growing interest in Accessibility through Web browsers, this coul
 
 **Equivalent:**
 
- what elements of the jobs are equivalent to what you already know? Equivalents could be languages, skills, CASE (computer-aided software environments, i.e., IDEs), tools, or techniques
-
- Vast majority of these require some staple of 
- *HTML (and some accessibility tools)
- *CSS (And some accessibility tools)
+ In these jobs a lot of the Stuff I know I can do are as follows:
+ 
+ *HTML 
+ *CSS 
  *Javascript
+ *Adaptability
  *Self Motivated
- *Work Wtih Chatgbt (Honestly since the professor mentioned that working with Chatgbt is a growing  demand in some workplaces, I've realized how many Jobs and internships also have this as a Qualification. That was news to me.)
+ *Work With Chatgbt (Honestly, since the professor mentioned that working with Chatgbt is a growing  demand in some workplaces, I've 
+ realized how many Jobs and internships also have this as a Qualification. That was news to me.)
  *Detail Oriented
- *Works independantly
-
+ *Team Collaboration
+ 
 
 **Improvements:**
 
- *What elements do you think you could find out and learn about? (example could be domain knowledge, software, Third-party packages)*
+ Something I could probably learn and find out more about is to see what IDE each company uses. I never really thought to look into that, but that could be a great way to expand my experience. Seeing IDEs of different companies may also help me see which IDE's the common denominators and maybe get some practice with their IDEs. Or at least be willing to work with it. 
 
- I could do more work to see what IDE each company uses. I never really thought to look into that, but that could be a great way to expand my expereince. Seeing IDE's of different companies may also help me see which IDE;s the common donominator and maybe get some practice with their IDE's. Or at least be wiling to work with it. 
-
-  Something I'm not familiar with though would be accesibility techniques outside of Alt Text. So I can see if there's new ways for me to learn techniques or information about how that's done. There could be other packages that we can use to utilize our coding efficiency time but remaing accessible. I'm not sure yet. 
+  Something I'm not familiar with though would be accessibility techniques outside of Alt Text. So, I can see if there are new ways to learn techniques or information about how that's done. There could be other packages that we can use to utilize our coding efficiency time but remain accessible. I'm not sure yet. 
 
 
 **SMART Goals:**
@@ -102,15 +102,15 @@ Things I've learned from them:
 
 The main thing I noticed was the layout of their resume. I struggle to know how to space things out in my resume, so following their layout may help me narrow down what is essential to share on one page. 
 
-(One example of formatting: I had my languages and soft skills off to the left, while most of them would include the skills under a project, or in their header.Just as long as its not off to the side.) 
+(One example of formatting: I had my languages and soft skills off to the left, while most of them would include the skills under a project, or in their header.Just as long as it's not off to the side.) 
 
-Also, I think I would get rid of the blue and just stick with the black colour and try for a format and layout similar to their resume. 
+Also, I would get rid of the blue and just stick with the black colour and try for a format and layout similar to their resume. 
 
 Other things: 
 
 * Utilize bullet points
 * Put contact under my name across the page rather than in a corner. 
-* Someone also shared a note with me to put a more recent project on my resume.
+* Someone also shared a note about putting more recent projects on my resume.
 
 Something all of the students seem to do differently is where they put different sections. (For example: some Students put their Education at the top rather than showcasing their projects first.) 
 
@@ -124,14 +124,12 @@ Something all of the students seem to do differently is where they put different
 
  What I learned From classmate:
 
-Something that stood out to me from the student introductions is how each person seemed to have a real passion or drive for something. I know my passion lies in the realm of accessibility, but I haven’t had the chance to go beyond basic accessibility features like ALT text. With my current course load, I’m not sure I’ll be able to code accessibility features just yet. However, because accessibility is something I really care about, I’m going to start by learning three key forms of website accessibility that could be integrated into our team project. By the end of the semester, I’ll write an 800-1,200 word summary about what I’ve learned and how these techniques can be applied to make our project more accessible moving forward. 
+Something that stood out from the student introductions was how each person seemed to have a real passion or drive for something. I know my passion lies with accessibility, but I haven’t had the chance to go beyond the basic accessibility features of ALT text. With my current course load, I’m not sure I’ll be able to code accessibility features just yet. However, because accessibility is something I care about, I will start by learning three key forms of website accessibility that could be integrated into our team project. By the end of the semester, I’ll write an 800-1,200 word summary about what I’ve learned and how these techniques can be applied to make our project more accessible moving forward. 
 
 Job Search:
 
-By the end of the semester I will add 15 new Linkedin connections. 
+By the end of the semester, I will add 15 new LinkedIn connections. 
 
-This is a goal that I can achieve with my busy schedule and could help me not only expand my reach but help me keep up to date with the ever-growing and changing industry. 
+This is a goal that I can achieve with my busy schedule and will help me expand my professional network while being informed about the ever-evolving industry. Not only that, but it will encourage me to engage with more professionals in the field and foster connections that can support my future career development. 
 
-
-
-
+[I had the assistance of OpenAI's ChatGPT in refining my SMART goals and ideas]
