@@ -27,7 +27,7 @@ Time-bound
 **Time-Bound** This focuses on making goals that you can accomplish in a timephrame. this means being on the same page with your team on when things will get done, and ensuring that what we want to acheive can be done within the time that we need to get things done. 
 
 
-While I did the reading/watched videos I found My favourite line which was from Khan Academy: There it says
+While I did the reading/watched videos I found My favourite line which was from Khan Academy. There it says: 
 "keep working through your frusterations by using the right learning strategies" [4]
 I don't know about everyone, but for me I know that I can get frusterated when I'm not understanding the material after a long period of time. So this can serve as a helpful reminder for us that we will get frusterated, but we need to impliment the right strategies to get through it. 
 
@@ -35,15 +35,14 @@ I don't know about everyone, but for me I know that I can get frusterated when I
  Look at 3-4 other classmates’ posts and identify 2-4 items that you think are novel approaches to improving your resume or LinkedIn Profile.
 
 *Resume:*
-1) 
-2) 
+1) Focus on the layout and simplify it more
+2) Utilize bullet points more 
  
 *Linkedin profile:*
 
 I liked seeing some of the big projects that one of the students posted. 
  1) Add in big meaningful projects I've done into LinkedIn
  2) Have a more professional Profile Picture
-
 
 
 
@@ -86,9 +85,46 @@ Since I have a growing interest in Accessibility through Web browsers, this coul
 
 **SMART Goals:**
 
-From the previous task, Job Posting & Evaluation, identify a common thread of Improvements. Include a list of classmates that you looked at. (For example: What are some standard search engines? What makes a good match? What equivalent comparisons of languages, tools, and techniques? What are we missing?)
+*Improvements*
+
+I looked over these students for ideas on how to imrpove my resume/linkedIn. 
+* (Jackson Westover:)[https://github.com/jcwestover/CSE-397/blob/main/Week01CareerPrepGettingWordOutIntro.md]
+* (Brycen Williams:)[https://github.com/Brycenjwill/cse-397/blob/main/Week01CareerPrepGettingWordOutIntro.md]
+* (Mabel Heiner) [https://github.com/mabelheiner/cse-397/blob/main/Week01CareerPrepGettingWordOutIntro.md]
+
+Things I've learned from them:
+
+*About Resume:* 
+
+The main thing I noticed was the layout of my resume.I struggle to know how to space things out with a resume, so following their layout may help me narrow down what is essential to share on one page. 
+
+(One example of formatting: I had my languages and soft skills off to the left, while most of them would include the skills under a project, or in it’s own header.Just as long as its not off to the side.) 
+
+Also I think I would get rid of the blue and just stick with the black color and try for similar formmating and layout as their resume. 
+
+Other things: 
+
+* Utilize bullet points
+* Put contact under my name across the page rather than in a corner. 
+* Someone also shared a note with me to put a more recent project on my resume, so when I have the opportunity, I will make sure to do that. 
+
+Something all of us seem to do differently is choose which part of a resume goes where. (For example: Should we showcase our Education at the top or the middle after projects?)
+
+*About LinkedIn/Cover Letter:*
+
+* Be Professional, but add a personal touch. (show your drive, share your passions and be curious.)
+* Don’t shy away from posting about projects. (especially if you work on a personal project) 
+
 
 **Create two S.M.A.R.T. goals**
 
-(Specific, Measurable, Achievable, Realistic, Time), one based on what you learned from your fellow classmates, and one from job search.
-Check in your file, post a link to your file.
+(Specific, Measurable, Achievable, Realistic, Time), one based on what you learned from your fellow classmates, and one from job search. 
+ 
+ Job Search:
+
+By the end of the semester I will add 15 new Linkedin connections
+
+ What I learned From classmate:
+
+Something that stood out to me from the student introductions is how each person seemed to have a real passion or drive for something. I know my passion lies in the realm of accessibility, but I haven’t had the chance to go beyond basic accessibility features like ALT text. With my current course load, I’m not sure I’ll be able to code accessibility features just yet. However, because accessibility is something I really care about, I’m going to start by learning three key forms of website accessibility that could be integrated into our team project. By the end of the semester, I’ll write an 800-1,200 word summary about what I’ve learned and how these techniques can be applied to make our project more accessible moving forward. 
+
