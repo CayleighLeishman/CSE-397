@@ -50,15 +50,15 @@ I liked seeing some of the big projects that one of the students posted.
 
  Find 3-4 jobs that you would like have applied or recommend. Provide links. And why are they good matches. Evaluate them.
 
- https://studentcareers-melaleuca.icims.com/jobs/6464/internship-2025---software-development/job?mobile=false&width=1030&height=16727&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360
+ [Melaleuca](https://studentcareers-melaleuca.icims.com/jobs/6464/internship-2025---software-development/job?mobile=false&width=1030&height=16727&bga=true&needsRedirect=false&jan1offset=-420&jun1offset=-360)
 
  This is for Web Development, I could apply of all the techniques I learned throughout the last few semesters. I love their motto "Doing good where good is needed." I mainly looked into this at first because of the location (Idaho Falls,) but they seem to have good standards and I beleive its a good companay to work for. 
 
-(Church of Jesus Christ UX Design )[https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/362898/?keyword=Web+development&mode=job-location]
+[Church of Jesus Christ UX Design](https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/362898/?keyword=Web+development&mode=job-location)
 
 This is for front end position. Since I have a growing interest in UI Design, this could be a great opportunity for me to learn new techniques that I haven't yet got the chance to learn yet. I could see how UX design is applied in the real world. I also like the idea of having an impact on the Church outside of being an Disciple of Christ. 
 
-(Digital Accessibility)[https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/362898/?keyword=Web+development&mode=job-location] 
+[Digital Accessibility](https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/362898/?keyword=Web+development&mode=job-location)
 
 Since I have a growing interest in Accessibility through Web browsers, this could have been a great place to see different accessibility features and see different Unversity cultures across the United States. 
 
@@ -76,11 +76,14 @@ Since I have a growing interest in Accessibility through Web browsers, this coul
  *Works independantly
 
 
+
 **Improvements:**
 
- What elements do you think you could find out and learn about? (example could be domain knowledge, software, Third-party packages)
+ *What elements do you think you could find out and learn about? (example could be domain knowledge, software, Third-party packages)*
 
  I could do more work to see what IDE each company uses. I never really thought to look into that, but that could be a great way to expand my expereince. Seeing IDE's of different companies may also help me see which IDE;s the common donominator and maybe get some practice with their IDE's. Or at least be wiling to work with it. 
+
+  Something I'm not familiar with though would be accesibility techniques outside of Alt Text. So I can see if there's new ways for me to learn techniques or information about how that's done.There could be other packages that we can use to utilize our coding efficiency time but remaing accessible. I'm not sure yet. 
 
 
 **SMART Goals:**
@@ -119,12 +122,11 @@ Something all of us seem to do differently is choose which part of a resume goes
 **Create two S.M.A.R.T. goals**
 
 (Specific, Measurable, Achievable, Realistic, Time), one based on what you learned from your fellow classmates, and one from job search. 
- 
- Job Search:
-
-By the end of the semester I will add 15 new Linkedin connections
 
  What I learned From classmate:
 
 Something that stood out to me from the student introductions is how each person seemed to have a real passion or drive for something. I know my passion lies in the realm of accessibility, but I haven’t had the chance to go beyond basic accessibility features like ALT text. With my current course load, I’m not sure I’ll be able to code accessibility features just yet. However, because accessibility is something I really care about, I’m going to start by learning three key forms of website accessibility that could be integrated into our team project. By the end of the semester, I’ll write an 800-1,200 word summary about what I’ve learned and how these techniques can be applied to make our project more accessible moving forward. 
 
+Job Search:
+
+By the end of the semester I will add 15 new Linkedin connections.
