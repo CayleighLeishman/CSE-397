@@ -6,7 +6,7 @@ The sources I used for this assingment is theses three:
 
 *2) [Isix](https://www.isixsigma.com/dictionary/smart/)*
 
-*3) [MsCottonsCorner->YouTube] (https://www.youtube.com/watch?v=9PwIZwIIv10)*
+*3) [MsCottonsCorner->YouTube](https://www.youtube.com/watch?v=9PwIZwIIv10)*
 
 *4) [KhanAcademy](https://www.khanacademy.org/college-careers-more/learnstorm-growth-mindset-activities-us/elementary-and-middle-school-activities/setting-goals/v/learnstorm-growth-mindset-how-to-write-a-smart-goal)*
 
